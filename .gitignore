@@ -4,3 +4,5 @@ spin_files
 nohup.out
 test*
 step*
+*.txt
+*.csv
